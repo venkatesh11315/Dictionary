@@ -1,0 +1,41 @@
+.container{
+    margin-top: 9rem;
+    margin-right: 3rem;
+
+}
+.form-control{
+    border-radius: 2rem;
+}
+.btn{
+    border-radius: 2rem;
+}
+.audio{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.h1style{
+    margin-right: 6rem;
+   
+    margin-top: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.heading{
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+}
+.word{
+margin-top: 2rem;
+}
+.parga{
+    margin-right: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+}
